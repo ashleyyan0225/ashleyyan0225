@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashleyyan0225
 - 👀 I’m interested in Game
 - 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for a job.
 - 📫 How to reach me ：ashleyyan0225@outlook.com
 
 <!---
